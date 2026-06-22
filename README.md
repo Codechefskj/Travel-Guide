@@ -43,7 +43,6 @@ The whole thing is built from reusable components, uses the Context API to manag
 
 According to your assets folder:
 
-```md
 ## 📸 Application Screenshots
 
 ### Home Screen
