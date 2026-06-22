@@ -45,25 +45,40 @@ According to your assets folder:
 
 ## 📸 Application Screenshots
 
-### Home Screen
+<table align="center">
+<tr>
+<td align="center">
+<b>Home Screen</b><br><br>
+<img src="./assets/home-screen.png" width="280"/>
+</td>
 
-![Home Screen](assets/home-screen.png)
+<td align="center">
+<b>Search Screen</b><br><br>
+<img src="./assets/search-screen.png" width="280"/>
+</td>
+</tr>
 
-### Search Functionality
+<tr>
+<td align="center">
+<b>Place Details</b><br><br>
+<img src="./assets/place-details-screen.png" width="280"/>
+</td>
 
-![Search Screen](assets/search-screen.png)
+<td align="center">
+<b> Favourite Places</b><br><br>
+<img src="./assets/favorite-place-screen.png" width="280"/>
+</td>
+</tr>
 
-### Place Details Screen
+<tr>
+<td align="center" colspan="2">
+<b>Profile Screen</b><br><br>
+<img src="./assets/profile-screen.png" width="280"/>
+</td>
+</tr>
+</table>
 
-![Place Details](assets/place-details-screen.png)
 
-### Favourite Places Screen
-
-![Favourite Places](assets/favorite-place-screen.png)
-
-### Profile Screen
-
-![Profile Screen](assets/profile-screen.png)
 ## Installation Steps
 
 ### Requirements
