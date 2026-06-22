@@ -38,11 +38,6 @@ The whole thing is built from reusable components, uses the Context API to manag
 
 
 ---
-
-# Screenshots Section
-
-According to your assets folder:
-
 ## 📸 Application Screenshots
 
 <table align="center">
